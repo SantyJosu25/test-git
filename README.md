@@ -7,3 +7,5 @@ Repositorio prueba
 Ejercicios de git
 
 ![](src/imagen.jpeg)
+
+![](src/imagen1.jpeg)
